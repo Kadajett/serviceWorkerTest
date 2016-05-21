@@ -1,0 +1,23 @@
+{
+  "name": "serviceWorkerTest",
+  "homepage": "https://github.com/Kadajett/serviceWorkerTest",
+  "authors": [
+    "jeremy.ryan.stover <jeremy.ryan.stover@gmail.com>"
+  ],
+  "description": "testing out service worker support",
+  "main": "index.html",
+  "keywords": [
+    "service",
+    "worker",
+    "js"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
